@@ -1,3 +1,5 @@
+
+<<<<<<< HEAD
 <<<<<<< HEAD
 Hello World!
 
@@ -5,3 +7,7 @@ Hello World!
 Hello World
 Ez a Dev ág
 >>>>>>> Dev
+=======
+Hello World 
+Ez a Test ág
+>>>>>>> Test
