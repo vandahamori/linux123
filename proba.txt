@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello World!
 
+=======
+Hello World
+Ez a Dev ág
+>>>>>>> Dev
